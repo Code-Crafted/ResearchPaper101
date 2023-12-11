@@ -1,4 +1,4 @@
-# ResearchPaper101
+# [ResearchPaper101 ](https://splashy-column-42b.notion.site/Research-Papers-101-b02fa4f8fed94e23b41850140c3a8b71)
 <aside>
 💡 Hello!!! I’m Sheiphan Joseph. Welcome to my blog, where I share my passion for artificial intelligence and its history. I have always been fascinated by how AI has evolved over the years, from the early days of symbolic logic and expert systems to the recent breakthroughs in deep learning and natural language processing. I believe that reading the original research papers that shaped AI is a great way to learn from the pioneers and understand the challenges and opportunities in this field.
 
